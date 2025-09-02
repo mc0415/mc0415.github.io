@@ -27,38 +27,28 @@ role: PhD Candidate
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: McCombs School of Business, The University of Texas at Austin
+  - name: "McCombs School of Business,\nThe University of Texas at Austin"
     url: https://www.mccombs.utexas.edu/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: ✉️
-    url: 'mchristou@utexas.edu'
+  - icon: fas/envelope
+    url: 'mailto:mariachristou.me@gmail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
-  - icon: brands/github
-    url: https://github.com/gcushen
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: linkedin.com/in/christou-maria
 
 interests:
+  - Public Safety
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD Operations Management
+    institution: The University of Texas at Austin
+    date_start: 2024-09-01
+    date_end: 2029-06-01
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
