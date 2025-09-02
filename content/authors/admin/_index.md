@@ -1,20 +1,20 @@
 ---
 # Display name
-title: 吳健雄
+title: Maria Christou
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Maria
+last_name: Christou
 
 # Pronouns (optional)
 pronouns: she/her
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 
 
 # Is this the primary user of the site?
 superuser: true
@@ -23,18 +23,18 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: PhD Candidate
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: McCombs School of Business, The University of Texas at Austin
+    url: https://www.mccombs.utexas.edu/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+  - icon: ✉️
+    url: 'mchristou@utexas.edu'
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/GetResearchDev
