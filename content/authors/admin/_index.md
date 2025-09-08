@@ -33,7 +33,7 @@ organizations:
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: fas fa-envelope
+  - icon: at-symbol
     url: 'mailto:mariachristou.me@gmail.com'
     label: E-mail Me
   - icon: brands/linkedin
@@ -176,4 +176,4 @@ awards:
 
 ## About Me
 
-I am a PhD Candidate at McCombs School of Business at the University of Texas at Austin. I work with [Prof. Ioannis Stamatopoulos](https://sites.utexas.edu/yannis-stamos/) and [Prof. Hale Erkan](https://search.asu.edu/profile/4821648). I am interested in empirical operations management and the way artificial intelligence is transforming operations in public safety and law enforcement. 
+I am a PhD Candidate at McCombs School of Business at the University of Texas at Austin. I work with Prof.[Ioannis Stamatopoulos](https://sites.utexas.edu/yannis-stamos/) and Prof.[Hale Erkan](https://search.asu.edu/profile/4821648). I am interested in empirical operations management and the way artificial intelligence is transforming operations in public safety and law enforcement. 
