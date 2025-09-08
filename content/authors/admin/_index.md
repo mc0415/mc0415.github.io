@@ -27,17 +27,17 @@ role: PhD Candidate
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: "McCombs School of Business,\nThe University of Texas at Austin"
+  - name: "The University of Texas at Austin"
     url: https://www.mccombs.utexas.edu/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: fas/envelope
+  - icon: fas fa-envelope
     url: 'mailto:mariachristou.me@gmail.com'
     label: E-mail Me
   - icon: brands/linkedin
-    url: linkedin.com/in/christou-maria
+    url: https://www.linkedin.com/in/christou-maria
 
 interests:
   - Public Safety
@@ -176,4 +176,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a PhD Candidate at McCombs School of Business at the University of Texas at Austin. I work with [Prof. Ioannis Stamatopoulos](https://sites.utexas.edu/yannis-stamos/) and [Prof. Hale Erkan](https://search.asu.edu/profile/4821648). I am interested in empirical operations management and the way artificial intelligence is transforming operations in public safety and law enforcement. 
