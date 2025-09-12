@@ -105,52 +105,16 @@ sections:
   #    spacing:
   #      padding: [0, 0, 0, 0]
 
-  - block: list
-    id: awards
+  - block: resume-experience
     content:
-      title: Awards & Fellowships
-      subtitle: ''
-      text: ''
-      items:
-        - title: "Best Paper Award"
-          year: 2024
-          description: "Operations Management Conference"
-        - title: "Graduate Fellowship"
-          year: 2023
-          description: "University of X"
-        - title: "Dean's Excellence Award"
-          year: 2022
-          description: "College of Business"
-    design:
-      view: date-title-summary
-      spacing:
-        padding: [0, 0, 0, 0]
-
-  - block: collection
-    id: teaching
-    content:
-      title: Teaching
-      subtitle: ''
-      text: ''
+      title: "Teaching"
       items:
         - title: "Supply Chain Modeling and Optimization (OM+BAX 338)"
-          date: "Fall 2024, Spring 2025, Fall 2025"
-          company: "University of Texas at Austin"
+          company: "Tech Company"
+          location: "San Francisco, CA"
+          date_start: "Fall 2024, Spring 2025, Fall 2025"
+          date_end: ''
           description: "Teaching Assistant"
-          text: ""
-    page_type: post
-    count: 0
-    filters:
-      category: ""
-      tag: ""
-      exclude_featured: false
-      exclude_future: false
-      exclude_past: false
-    offset: 0
-    order: desc
     design:
-      view: date-title-summary
-      spacing:
-        padding: [0, 0, 0, 0]
-
+      columns: "1"
 ---
