@@ -40,12 +40,13 @@ profiles:
     url: https://www.linkedin.com/in/christou-maria
 
 interests:
-  - Public Safety
+  - Empirical Operations Management
   - Artificial Intelligence
-
+  - Public Safety
+  
 
 education:
-  - area: PhD Operations Management
+  - area: Ph.D Operations Management (ongoing)
     institution: The University of Texas at Austin
     date_start: 2024-09-01
     date_end: 2029-06-01
@@ -54,10 +55,10 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - area: M.Eng Mechanical Engineering
+    institution: National Technical University of Athens
     date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_end: 2021-06-30
     summary: |
       GPA: 3.8/4.0
 

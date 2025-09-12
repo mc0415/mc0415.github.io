@@ -7,9 +7,9 @@ main:
     url: /
     weight: 10
   
-  - name: Awards
-    url: /#awards
-    weight: 11
+ # - name: Awards
+  #  url: /#awards
+   # weight: 11
 
   - name: Contact
     url: /#contact
