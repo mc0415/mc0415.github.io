@@ -106,7 +106,7 @@ sections:
   #      padding: [0, 0, 0, 0]
 
   - block: list
-    id: Awards
+    id: awards
     content:
       title: Awards & Fellowships
       subtitle: ''
@@ -152,3 +152,5 @@ sections:
       view: date-title-summary
       spacing:
         padding: [0, 0, 0, 0]
+
+---
