@@ -111,6 +111,8 @@ sections:
     id: Awards
     content:
     title: Awards & Fellowships
+    subtitle: ''
+    text: ''
     items:
       - title: "Best Paper Award"
         year: 2024
@@ -143,6 +145,7 @@ sections:
         date: "Fall 2024, Spring 2025, Fall 2025"
         company: "University of Texas at Austin"
         description: "Teaching Assistant"
+        text: ""
     design:
     view: date-title-summary
     spacing:
