@@ -48,16 +48,25 @@ sections:
     design:
       columns: '1'
 
-  - block: resume-experience
+  - block: markdown
     content:
-      title: "Teaching Experience"
-      items:
-        - title: "Supply Chain Modeling and Optimization (OM+BAX 338)"
-          date_start: "Fall 2024, Spring 2025, Fall 2025"
-          date_end: ""
-          description: "Teaching Assistant"
+      title: '👩‍🏫 Teaching Experience'
+      subtitle: ''
+      text: |-
+        <div style="display: flex; flex-direction: column; gap: 1.5rem;">
+
+          <div style="display: flex;">
+            <div style="width: 150px; font-weight: bold;">Fall 2024 – Present</div>
+            <div>
+            <strong>Teaching Assistant, Operations Management</strong><br>
+            McCombs School of Business, University of Texas at Austin<br>
+            Assisted with lectures, grading, and student support.
+            </div>
+          </div>
+        </div>
     design:
-      columns: "1"
+      columns: '1'
+
 
   - block: markdown
     content:
