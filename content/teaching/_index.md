@@ -1,5 +1,5 @@
 ---
-title: Teaching
+title: Teaching Experience
 summary: My courses
 type: landing
 
@@ -8,6 +8,7 @@ cascade:
       kind: page
     params:
       show_breadcrumb: true
+
 
 sections:
   - block: collection

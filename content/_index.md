@@ -48,7 +48,17 @@ sections:
     design:
       columns: '1'
 
-
+  - block: collection
+    id: teaching
+    content:
+      title: "👩‍🏫 Teaching Experience"
+      subtitle: ""
+      text: ""
+      filters:
+        folders:
+          - teaching
+    design:
+      view: compact
   - block: markdown
     content:
       title: '📚 My Research'
@@ -61,6 +71,7 @@ sections:
         Please reach out to collaborate 😃
     design:
       columns: '1'
+  
       
   #- block: collection
   #  id: papers
