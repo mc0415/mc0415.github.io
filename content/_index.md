@@ -119,16 +119,4 @@ sections:
   #    spacing:
   #      padding: [0, 0, 0, 0]
 
-  - block: resume-experience
-    content:
-      title: "Teaching"
-      items:
-        - title: "Supply Chain Modeling and Optimization (OM+BAX 338)"
-          company: "Tech Company"
-          location: "San Francisco, CA"
-          date_start: "Fall 2024, Spring 2025, Fall 2025"
-          date_end: ''
-          description: "Teaching Assistant"
-    design:
-      columns: "1"
 ---
