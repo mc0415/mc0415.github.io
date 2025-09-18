@@ -48,17 +48,17 @@ sections:
     design:
       columns: '1'
 
-  - block: collection
-    id: teaching
+  - block: resume-experience
     content:
-      title: "👩‍🏫 Teaching Experience"
-      subtitle: ""
-      text: ""
-      filters:
-        folders:
-          - teaching
+      title: "Teaching Experience"
+      items:
+        - title: "Supply Chain Modeling and Optimization (OM+BAX 338)"
+          date_start: "Fall 2024, Spring 2025, Fall 2025"
+          date_end: ""
+          description: "Teaching Assistant"
     design:
-      view: compact
+      columns: "1"
+
   - block: markdown
     content:
       title: '📚 My Research'
