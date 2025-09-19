@@ -73,14 +73,10 @@ sections:
       title: '📬 Contact'
       subtitle: ''
       text: |-
-        <div style="display: flex; flex-direction: column; gap: 0.5rem;">
+        <div id = "contact" style="display: flex; flex-direction: column; gap: 0.5rem;">
+          
+          <div>📍 2110 Speedway, Austin, TX 78705</div>
 
-          <div><strong>Email:</strong> mchristou@utexas.edu</div>
-          <div><strong>Office:</strong> McCombs School of Business, University of Texas at Austin</div>
-          <div><strong>Address: </strong> 2110 Speedway, Austin, TX 78705</div>
-          <div><strong>Website:</strong> <a href="https://www.mccombs.utexas.edu/" target="_blank">mccombs.utexas.edu</a></div>
-
-          <!-- Optional: Embed a Google Map for office location -->
           <iframe 
             src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3445.3482428212633!2d-97.74022612275662!3d30.28414627480375!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8644b59c68123325%3A0x690ca90b0920ae54!2sMcCombs%20School%20of%20Business!5e0!3m2!1sen!2sus!4v1758245356828!5m2!1sen!2sus" 
             width="600" 
@@ -91,6 +87,11 @@ sections:
             referrerpolicy="no-referrer-when-downgrade">
           </iframe>   
 
+          <div>
+            <a href="https://www.mccombs.utexas.edu/" target="_blank">
+            McCombs School of Business, University of Texas at Austin
+            </a>
+          </div>
         </div>
     design:
       columns: '1'
