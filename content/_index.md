@@ -40,9 +40,9 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        My research examines the role of Artificial Intelligence in Emergency Communication Centers, with a focus on how these technologies affect operational performance and the delivery of critical public services. 
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        More broadly, my interests lie at the intersection of AI, operations management, and public safety systems operating under high-stakes conditions.
         
         Please reach out to collaborate 😃
     design:
@@ -56,7 +56,7 @@ sections:
         <div style="display: flex; flex-direction: column; gap: 1.5rem;">
 
           <div style="display: flex;">
-            <div style="width: 150px; font-weight: bold;">Fall 2024 – Present</div>
+            <div style="width: 150px; font-weight: bold;">Fall 2024, Spring 2025, Fall 2025</div>
             <div>
             <strong>Teaching Assistant, Operations Management</strong><br>
             McCombs School of Business, University of Texas at Austin<br>
