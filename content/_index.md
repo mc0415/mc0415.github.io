@@ -58,9 +58,9 @@ sections:
           <div style="display: flex;">
             <div style="width: 150px; font-weight: bold;">Fall 2024, Spring 2025, Fall 2025</div>
             <div>
-            <strong>Teaching Assistant, Operations Management</strong><br>
-            McCombs School of Business, University of Texas at Austin<br>
-            Assisted with lectures, grading, and student support.
+            <strong>Supply Chain Modeling and Optimization (OM+BAX 338)</strong><br>
+            Teaching Assistant <br>
+            McCombs School of Business, University of Texas at Austin
             </div>
           </div>
         </div>
@@ -70,16 +70,31 @@ sections:
 
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: '📬 Contact'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        <div style="display: flex; flex-direction: column; gap: 0.5rem;">
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+          <div><strong>Email:</strong> mchristou@utexas.edu</div>
+          <div><strong>Office:</strong> McCombs School of Business, University of Texas at Austin</div>
+          <div><strong>Address: </strong> 2110 Speedway, Austin, TX 78705</div>
+          <div><strong>Website:</strong> <a href="https://www.mccombs.utexas.edu/" target="_blank">mccombs.utexas.edu</a></div>
+
+          <!-- Optional: Embed a Google Map for office location -->
+          <iframe 
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3445.3482428212633!2d-97.74022612275662!3d30.28414627480375!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8644b59c68123325%3A0x690ca90b0920ae54!2sMcCombs%20School%20of%20Business!5e0!3m2!1sen!2sus!4v1758245356828!5m2!1sen!2sus" 
+            width="600" 
+            height="450" 
+            style="border:0;" 
+            allowfullscreen="" 
+            loading="lazy" 
+            referrerpolicy="no-referrer-when-downgrade">
+          </iframe>   
+
+        </div>
     design:
       columns: '1'
+
   
       
   #- block: collection
