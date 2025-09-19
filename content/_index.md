@@ -53,14 +53,14 @@ sections:
       title: '👩‍🏫 Teaching Experience'
       subtitle: ''
       text: |-
-        <div style="display: flex; flex-direction: column; gap: 1.5rem;">
+        <div id = "teaching" style="display: flex; flex-direction: column; gap: 1.5rem;">
 
           <div style="display: flex;">
             <div style="width: 150px; font-weight: bold;">Fall 2024, Spring 2025, Fall 2025</div>
             <div>
-            <strong>Supply Chain Modeling and Optimization (OM+BAX 338)</strong><br>
-            Teaching Assistant <br>
-            McCombs School of Business, University of Texas at Austin
+              <span style="font-size: 1rem; font-weight: bold;">Supply Chain Modeling and Optimization</span><br>
+              <span style="font-size: 0.9rem;">Teaching Assistant</span><br>
+              <span style="font-size: 0.9rem;">McCombs School of Business, University of Texas at Austin</span>
             </div>
           </div>
         </div>
@@ -75,6 +75,7 @@ sections:
       text: |-
         <div id = "contact" style="display: flex; flex-direction: column; gap: 0.5rem;">
           
+          <div> 📩 mchristou@utexas.edu <div>
           <div>📍 2110 Speedway, Austin, TX 78705</div>
 
           <iframe 

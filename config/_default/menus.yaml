@@ -7,7 +7,12 @@ main:
     url: /
     weight: 10
   
+  - identifier: teaching
+    name: Teaching
+    url: /#teaching
+    weight: 20
+
   - identifier: contact
     name: Contact
     url: /#contact
-    weight: 12
+    weight: 30
