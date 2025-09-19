@@ -58,7 +58,8 @@ sections:
           <div style="display: flex;">
             <div style="width: 150px; font-weight: bold;">Fall 2024, Spring 2025, Fall 2025</div>
             <div>
-              <span style="font-size: 1.5rem; font-weight: bold;">Supply Chain Modeling and Optimization (OM & BAX 338)</span><br>
+              <span style="font-size: 1.5rem; font-weight: bold;"> Supply Chain Modeling and Optimization 
+              <span style="white-space: nowrap;">(OM & BAX 338)</span></span><br>
               <span style="font-size: 1rem;">Teaching Assistant</span><br>
               <span style="font-size: 1rem;">McCombs School of Business, University of Texas at Austin</span>
             </div>
